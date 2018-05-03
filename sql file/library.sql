@@ -1,9 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.4.14
--- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 17, 2017 at 06:15 PM
 -- Server version: 5.6.26
 -- PHP Version: 5.5.28
 
@@ -40,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `FullName`, `AdminEmail`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'Anuj Kumar', 'phpgurukulofficial@gmail.com', 'admin', 'f925916e2754e5e03f75dd58a5733251', '2017-07-16 18:11:42');
+(1, 'Anuj Kumar', 'parvezmusharrof8@gmail.com', 'admin', 'f925916e2754e5e03f75dd58a5733251', '2017-07-16 18:11:42');
 
 -- --------------------------------------------------------
 
